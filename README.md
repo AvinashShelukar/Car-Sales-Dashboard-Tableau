@@ -115,17 +115,8 @@ Some important insights generated through the dashboard include:
 
 ## 📈 Dashboard Preview
 
-### Main Dashboard
+[![Car Sales Dashboard](dashboard_screenshot.png)](https://public.tableau.com/views/CarSalesDashboard_17818643825930/CarSalesDashboard)
 
-> Add dashboard screenshots here for better visualization and recruiter engagement.
-
-Example:
-
-```markdown
-![Dashboard Screenshot](dashboard_screenshot.png)
-```
-
----
 
 ## 🌐 Interactive Dashboard
 
