@@ -115,7 +115,6 @@ Some important insights generated through the dashboard include:
 
 ## 📈 Dashboard Preview
 ![Car Sales Dashboard](Screenshot%20(88).png)
-[![Car Sales Dashboard](dashboard_screenshot.png)](https://public.tableau.com/views/CarSalesDashboard_17818643825930/CarSalesDashboard)
 
 
 ## 🌐 Interactive Dashboard
