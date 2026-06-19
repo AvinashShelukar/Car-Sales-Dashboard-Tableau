@@ -188,9 +188,6 @@ M.Tech (Computer Science & Engineering)
 Walchand College of Engineering, Sangli
 
 ### Connect With Me
-
-* LinkedIn: *Add Your LinkedIn Profile Link*
-* GitHub: *Add Your GitHub Profile Link*
 * Tableau Public: [https://public.tableau.com/views/CarSalesDashboard_17818643825930/CarSalesDashboard](https://public.tableau.com/views/CarSalesDashboard_17818643825930/CarSalesDashboard)
 
 ---
